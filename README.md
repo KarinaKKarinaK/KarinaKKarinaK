@@ -4,7 +4,11 @@
 
 ###
 
-<p align="left">I'm Karina from Poland 🇵🇱, AI Research Engineer @Orq.ai, BSc AI @VU Amsterdam & incoming exchange @Hong Kong University Of Science and Technology <br></p>
+<p align="left">I'm Karina from Poland 🇵🇱</p>
+<br>
+<p align="left">AI Research Engineer @Orq.ai</p>
+<br>
+<p align="left">BSc AI @VU Amsterdam & incoming @HKUST</p>
 
 ###
 
